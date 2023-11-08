@@ -3,6 +3,9 @@ learn-expressJS-01
 
 This is a simple CRUD (Create, Read, Update, Delete) project built using Express.js, Node.js, and MySQL. It provides RESTful API endpoints to manage employee data.
 
+## Postman
+https://www.mediafire.com/file/7sj200tdc7i6xo9/express-js-01_API.postman_collection.json/file
+
 ## Prerequisites
 
 Before running this project, make sure you have the following installed on your local machine:
