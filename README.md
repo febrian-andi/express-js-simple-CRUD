@@ -5,6 +5,7 @@ This is a simple CRUD (Create, Read, Update, Delete) project built using Express
 
 ## Postman
 https://www.mediafire.com/file/7sj200tdc7i6xo9/express-js-01_API.postman_collection.json/file
+https://documenter.getpostman.com/view/24867369/2s9YXiYLor
 
 ## Prerequisites
 
